@@ -21,6 +21,7 @@ public class AddTwoNumbers {
    public static void main(String[] args) {
         
       int num1 = 9, num2 = 15, sum;
+      int num1 = 50, num2 = 15, sum;
       sum = num1 + num2;
 
       System.out.println("Sum of these numbers: "+sum);
@@ -31,7 +32,9 @@ public class Demo {
 
     public static void main(String[] args) {
 
-       int num = 19, count, total = 0;
+
+       int num = 19, count, total =
+       int num = 100, count, total = 0;
 
        for(count = 1; count <= num; count++){
            total = total + count;
